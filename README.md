@@ -1,4 +1,4 @@
-#Programa para saber a quantidade de funcionários e a média salarial de uma empresa
+Programa para saber a quantidade de funcionários e a média salarial de uma empresa.
 
 nome=input("Digite um funcionário: ")
 empresa=input("Digite a instituição: ")
